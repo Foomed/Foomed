@@ -49,7 +49,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
- <img src="https://skillicons.dev/icons?i=python,java,c,firebase,tensorflow,mongodb,mysql,github,vscode,photoshop,canva" /> />
+ <img src="https://skillicons.dev/icons?i=python,java,c,firebase,tensorflow,mongodb,mysql,github,vscode,photoshop,canva" />
 </p>
 
 <br>
@@ -69,4 +69,8 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Foomed&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <img src="./assets/test.svg">
 </p>

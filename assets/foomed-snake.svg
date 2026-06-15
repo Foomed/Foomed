@@ -1,56 +1,6 @@
-```svg
-<svg width="800" height="250"
-     xmlns="http://www.w3.org/2000/svg">
-
-  <style>
-    .block {
-      fill: #39d353;
-      stroke: #161b22;
-      stroke-width: 2;
-    }
-
-    .eaten {
-      fill: #0d1117;
-      animation: eat 1s forwards;
-    }
-
-    @keyframes eat {
-      from { fill:#39d353; }
-      to { fill:#0d1117; }
-    }
-
-    .snake {
-      fill: #58a6ff;
-    }
-  </style>
-
-  <!-- F -->
-
-  <rect x="50" y="50" width="20" height="20" class="block"/>
-  <rect x="50" y="75" width="20" height="20" class="block"/>
-  <rect x="50" y="100" width="20" height="20" class="block"/>
-
-  <rect x="75" y="50" width="20" height="20" class="block"/>
-  <rect x="100" y="50" width="20" height="20" class="block"/>
-
-  <rect x="75" y="75" width="20" height="20" class="block"/>
-
-  <!-- Snake -->
-
-  <circle r="10" class="snake">
-
-    <animateMotion
-      dur="8s"
-      repeatCount="indefinite"
-      path="
-      M 20 60
-      L 60 60
-      L 60 85
-      L 60 110
-      L 90 85
-      " />
-
-  </circle>
-
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="150">
+  <rect width="600" height="150" fill="#0d1117"/>
+  <text x="50" y="90" font-size="60" fill="#39d353">
+    FOOMED
+  </text>
 </svg>
-```

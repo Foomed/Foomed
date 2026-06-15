@@ -1,27 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="250">
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200"
+     height="300"
+     viewBox="0 0 1200 300">
 
   <rect width="100%" height="100%" fill="#0d1117"/>
 
-  <!-- F -->
-  <rect x="50" y="50" width="18" height="18" fill="#39d353"/>
-  <rect x="50" y="72" width="18" height="18" fill="#39d353"/>
-  <rect x="50" y="94" width="18" height="18" fill="#39d353"/>
-  <rect x="50" y="116" width="18" height="18" fill="#39d353"/>
-  <rect x="50" y="138" width="18" height="18" fill="#39d353"/>
-
-  <rect x="72" y="50" width="18" height="18" fill="#39d353"/>
-  <rect x="94" y="50" width="18" height="18" fill="#39d353"/>
-
-  <rect x="72" y="94" width="18" height="18" fill="#39d353"/>
-  <rect x="94" y="94" width="18" height="18" fill="#39d353"/>
-
-<circle r="8" fill="#58a6ff">
+ <text
+    x="100"
+    y="180"
+    fill="#39d353"
+    font-size="120"
+    font-family="monospace">
+    FOOMED
+  </text>
+  
+<circle r="10" fill="#58a6ff">
 
   <animateMotion
-    dur="4s"
+    dur="8s"
     repeatCount="indefinite"
-    path="M 20 60 L 60 60 L 60 140 L 100 140"/>
+    path="
+    M 59 59
+    L 81 59
+    L 103 59
 
+    L 59 59
+    L 59 81
+    L 59 103
+
+    L 81 103
+    L 103 103
+
+    L 59 103
+    L 59 125
+    L 59 147
+    "/>
 </circle>
 
 </svg>

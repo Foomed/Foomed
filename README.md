@@ -72,5 +72,5 @@
 </p>
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/Foomed/Foomed/main/assets/Foomed.gif" width="1000">
+ <img src="./assets/Foomed.gif" width="1000">
 </p>

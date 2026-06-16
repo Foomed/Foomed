@@ -72,5 +72,5 @@
 </p>
 
 <p align="center">
-  <img src="./assets/foomed-snake.svg">
+  <img src="./assets/Foomed.gif" width="1000">
 </p>

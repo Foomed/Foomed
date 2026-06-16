@@ -23,7 +23,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/srajan-nema-dev/]">
+  <a href="https://www.linkedin.com/in/srajan-nema-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
@@ -72,5 +72,5 @@
 </p>
 
 <p align="center">
-  <img src="./assets/Foomed.gif" width="1000">
+ <img src="https://raw.githubusercontent.com/Foomed/Foomed/main/assets/Foomed.gif" width="1000">
 </p>
